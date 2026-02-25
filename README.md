@@ -14,7 +14,7 @@
 
 ---
 
-### ⚡ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -35,11 +35,11 @@
 
 ### Projects
 
-** Weather App** &nbsp;·&nbsp; Next.js · TypeScript · Tailwind · React Query · Jotai
+ Weather App &nbsp;·&nbsp; Next.js · TypeScript · Tailwind · React Query · Jotai
 > Real-time weather forecast with geolocation and OpenWeatherMap API.
 > &nbsp;[🔗 Live Demo](https://weather-app-bre8.vercel.app) &nbsp;·&nbsp; [💻 Code](https://github.com/EdgarGT041/Weather-App)
 
-** Movie Web App** &nbsp;·&nbsp; React · TypeScript · Vite · TMDB API
+ Movie Web App &nbsp;·&nbsp; React · TypeScript · Vite · TMDB API
 > Movie catalog with infinite scroll, multi-page navigation and skeleton loading.
 > &nbsp;[🔗 Live Demo](https://movie-web-app-blue.vercel.app/) &nbsp;·&nbsp;[💻 Code](https://github.com/EdgarGT041/Movie-Web-App)
 
@@ -49,7 +49,7 @@
 
 ---
 
-### 📬 Contact
+###  Contact
 
 <div align="center">
 
