@@ -8,16 +8,7 @@
 
 <br/>
 
-```typescript
-const edgar = {
-  location : "Mazatlán, Sinaloa 🇲🇽",
-  education : "B.S. Information Technology — UPSIN",
-  focus     : ["React", "Next.js", "TypeScript"],
-  goal      : "Grow into a Full Stack Developer",
-  languages : { native: "Spanish", intermediate: "English B2" },
-  building  : "Movie Web App — React 18 + TMDB API 🎬",
-};
-```
+
 
 <br/>
 
@@ -42,26 +33,19 @@ const edgar = {
 
 ---
 
-### 🌟 Projects
+### Projects
 
-**🌤️ Weather App** &nbsp;·&nbsp; Next.js 15 · TypeScript · Tailwind · React Query · Jotai
+** Weather App** &nbsp;·&nbsp; Next.js · TypeScript · Tailwind · React Query · Jotai
 > Real-time weather forecast with geolocation and OpenWeatherMap API.
 > &nbsp;[🔗 Live Demo](https://weather-app-bre8.vercel.app) &nbsp;·&nbsp; [💻 Code](https://github.com/EdgarGT041/Weather-App)
 
-**🎬 Movie Web App** &nbsp;·&nbsp; React 18 · TypeScript · Vite · TMDB API &nbsp;*(in progress)*
+** Movie Web App** &nbsp;·&nbsp; React · TypeScript · Vite · TMDB API
 > Movie catalog with infinite scroll, multi-page navigation and skeleton loading.
-> &nbsp;[💻 Code](https://github.com/EdgarGT041/Movie-Web-App)
+> &nbsp;[🔗 Live Demo](https://movie-web-app-blue.vercel.app/) &nbsp;·&nbsp;[💻 Code](https://github.com/EdgarGT041/Movie-Web-App)
 
 ---
 
-### 📊 Stats
 
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=EdgarGT041&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117"/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarGT041&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
 
 ---
 
