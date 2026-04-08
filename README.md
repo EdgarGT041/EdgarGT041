@@ -18,10 +18,10 @@ Full Stack Developer with a focus on **frontend development** and **clean archit
 ### [Weather App](https://github.com/EdgarGT041/weather-app)
 Real-time weather application built with **React**, **Next.js**, **React Query**, and **Jotai** for state management. Clean UI with responsive design.
 
-### [Expense Tracker](https://github.com/EdgarGT041/expense-tracker)
+### [Expense Tracker](https://github.com/EdgarGT041/ExpenseTracker)
 Full-stack MERN application for personal finance management. Features authentication, data visualization, and RESTful API architecture.
 
-### [Movie Web App](https://github.com/EdgarGT041/movie-app)
+### [Movie Web App](https://github.com/EdgarGT041/Movie-Web-App)
 Movie discovery platform using **React**, **TypeScript**, and **Vite**. Integrates external APIs with optimized performance.
 
 ## 💼 Professional Experience
