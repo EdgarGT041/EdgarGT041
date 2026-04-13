@@ -2,6 +2,8 @@
 
 Full Stack Developer with a focus on **frontend development** and **clean architecture**. I build scalable web applications using the MERN stack and modern frameworks.
 
+### [Check My Portfolio](https://edgargt.vercel.app/)
+
 ## 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
